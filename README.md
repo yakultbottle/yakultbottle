@@ -1,4 +1,4 @@
-Hi, I'm Benjamin Lim, a Year 1 Computer Engineering student at National University of Singapore. 
+Hi, I'm Benjamin Lim, a Year 2 Computer Engineering student at National University of Singapore. 
 
 Below are links to GitHub Pages for projects I have worked on. Note that the original repositories for these projects are private to maintain the integrity of coursework for future students in the program.
 
